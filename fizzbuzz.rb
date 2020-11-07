@@ -5,7 +5,7 @@ def fizzbuzz(int)
   if int % 5 == 0
     return "Buzz"
   end
-elsif int % 3 and 5 == 0
+if int %  == 0
     return "FizzBuzz"
   end
 end
