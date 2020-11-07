@@ -5,10 +5,7 @@ def fizzbuzz(int)
   if int % 5 == 0
     return "Buzz"
   end
-elsif int % 3 == 0
-    return "FizzBuzz"
-  elsif int % 5 == 0
+elsif int % 3 && 5 == 0
     return "FizzBuzz"
   end
-end
 end
